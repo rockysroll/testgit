@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T07:55:58.961Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zxO8N1lIT14xrRH47KdU" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:57:31.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="e13IzOfSqb8C5XcNyr2y" version="21.3.8" type="github">
   <diagram name="Page-1" id="RvCjO7zEcKIN2-4zD3T-">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -9,6 +9,18 @@
         </mxCell>
         <mxCell id="ut5olAz6ssAcZdQZI2CR-2" value="建issue" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="135" y="90" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut5olAz6ssAcZdQZI2CR-3" value="自测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="160" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut5olAz6ssAcZdQZI2CR-4" value="交叉测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="230" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut5olAz6ssAcZdQZI2CR-5" value="发布内测版本" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="300" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut5olAz6ssAcZdQZI2CR-8" value="内测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
