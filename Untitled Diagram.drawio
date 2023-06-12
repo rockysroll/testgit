@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T07:57:31.940Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="e13IzOfSqb8C5XcNyr2y" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T07:58:33.491Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="qmqZMHrlb3M-TpZFKlnn" version="21.3.8" type="github">
   <diagram name="Page-1" id="RvCjO7zEcKIN2-4zD3T-">
     <mxGraphModel dx="1434" dy="756" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -21,6 +21,12 @@
         </mxCell>
         <mxCell id="ut5olAz6ssAcZdQZI2CR-8" value="内测" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="380" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut5olAz6ssAcZdQZI2CR-9" value="提交bug" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="20" width="150" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ut5olAz6ssAcZdQZI2CR-10" value="bug修复" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="80" width="150" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
