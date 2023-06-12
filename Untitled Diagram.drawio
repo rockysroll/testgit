@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-12T08:11:45.023Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="etmSa8rR1XJNrm-1UbgF" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-12T08:12:29.311Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="zngM8OqwY-0Gg3OMZRwi" version="21.3.8" type="github">
   <diagram name="Page-1" id="RvCjO7zEcKIN2-4zD3T-">
     <mxGraphModel dx="1434" dy="756" grid="0" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="1">
       <root>
@@ -35,7 +35,7 @@
         </mxCell>
         <mxCell id="ut5olAz6ssAcZdQZI2CR-24" value="更新bug状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ut5olAz6ssAcZdQZI2CR-23">
           <mxGeometry x="0.209" y="-1" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-45" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ut5olAz6ssAcZdQZI2CR-4" value="交叉测试" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
