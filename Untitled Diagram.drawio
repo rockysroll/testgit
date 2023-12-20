@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-20T03:38:36.368Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="twfrzfSYx2ncsfD-GR42" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-20T03:39:22.056Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="3-HrM8AaBWdyJAEqV3g4" version="21.5.0" type="github">
   <diagram name="Page-1" id="97916047-d0de-89f5-080d-49f4d83e522f">
     <mxGraphModel dx="1843" dy="794" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1.5" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="0">
       <root>
@@ -46,37 +46,37 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="8" value="工程主管" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="177" y="627.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="187" y="627.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9" value="工程维修" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="177" y="762.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="187" y="762.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqPRPxkx0A_qUsA7eI9m-67" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="13" target="14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="13" value="秩序主管" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="447" y="627.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="457" y="627.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="14" value="保安" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="447" y="762.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="457" y="762.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqPRPxkx0A_qUsA7eI9m-68" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="18" target="19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="18" value="保洁主管" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="737" y="627.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="747" y="627.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="19" value="保洁" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="737" y="762.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="747" y="762.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BqPRPxkx0A_qUsA7eI9m-69" value="" style="edgeStyle=orthogonalEdgeStyle;shape=link;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="23" target="24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="23" value="客服主管" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="987" y="627.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="997" y="627.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="24" value="客服" style="rounded=1;fillColor=#10739E;strokeColor=none;shadow=1;gradientColor=none;fontStyle=1;fontColor=#FFFFFF;fontSize=30;" parent="1" vertex="1">
-          <mxGeometry x="985.5" y="762.5" width="203" height="60" as="geometry" />
+          <mxGeometry x="995.5" y="762.5" width="203" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
